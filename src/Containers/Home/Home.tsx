@@ -1,9 +1,7 @@
+import FieldOfDream from '../FieldOfDream/FieldOfDream';
+
 const Home = () => {
-  return (
-    <div>
-      <h1>контент</h1>
-    </div>
-  );
+  return <FieldOfDream/>;
 };
 
 export default Home;
